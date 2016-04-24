@@ -1,2 +1,2 @@
 # py_suites
-personal python scripts
+Personal python scripts
